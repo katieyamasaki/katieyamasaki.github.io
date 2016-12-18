@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	color: #615660;
+	font-size: 44px;
+}
+#slogan {
+	font-style: italic;
+	color: #615660;
+	font-size: 28px;
+}
+body {
+	text-align: center;
+	background: "images/yuki_by_heater.JPG";
+	background-size: cover;
+	background-color: #CDB6CB;
+	color: #FFF;
+	font-family: Helvetica;
+}
+img {
+	width: 100%;
+}
+hr {
+  	width: 300px;
+}
+p {
+  	font-size: 20px;
+}
