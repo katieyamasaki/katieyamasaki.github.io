@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i');
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #615660;
+	font-size: 46px;
+	font-weight: 100;
+	font-family: 'Questrial', sans-serif;
+	letter-spacing: .075em;
+}
+
+.navlinks {
+	font-size: 16px;
+	font-weight: 100;
+	font-family: 'Questrial', sans-serif;
+	text-decoration: none;
+	color: #AAA;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	padding: 2em;
+}
+
+#slogan {
+	font-style: italic;
+	color: #615660;
+	font-size: 28px;
+	font-weight: 100;
+}
+
+body {
+	text-align: center;
+	background: "images/yuki_by_heater.JPG";
+	background-size: cover;
+	background-color: #FFF;
+	color: #615660;
+	font-family: 'Crimson Text', serif;
+}
+
+p {
+  	font-size: 25px;
+}
+
+ul {
+	font-size: 25px;
+	text-align: center;
+	list-style-type: none;
+}
+
+img {
+	width: 100%;
+}
+
+hr {
+	border: none;
+	height: 2px;
+  	width: 700px;
+  	background-color: #615660;
+}
